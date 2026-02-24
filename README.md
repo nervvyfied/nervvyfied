@@ -1,5 +1,6 @@
 # 💫 About Me:
 hello world
+I am Celine
 
 
 ## 🌐 Socials:
